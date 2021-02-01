@@ -12,7 +12,7 @@ Java
 Introduction
 ============
 
-Java is a general-purpose, object-oriented programming language. Interally, it
+Java is a general-purpose, object-oriented programming language. Internally, it
 uses a virtual machine, making "compiled" java programs very independent of the
 actual hardware executing them.
 
